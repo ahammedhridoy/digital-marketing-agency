@@ -1,0 +1,26 @@
+/* navbar css */
+
+@media screen and (max-width: 1024px) {
+  .header_wrapper .menu-navbar-nav {
+    margin: 0px 5px;
+  }
+  .header_wrapper .menu-navbar-nav {
+    width: 64%;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .banner-left img {
+    margin-right: 20px;
+  }
+  div#navbarNav {
+    background: #f5f5f5 !important;
+  }
+  .banner-left {
+    margin-top: 30px !important;
+  }
+}
+
+/* banner css */
